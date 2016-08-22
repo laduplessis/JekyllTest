@@ -88,24 +88,16 @@ public class HelloWorld {
 	with nothing in it
 
 
-> Line 1
-> Line 2
-> - Line 3
-> - Line 4
-
-Task list
-- [x] Try this :+1:
-- [ ] Add a figure
-
 ## Tables
 
+This should be a table
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
 
-
+Should this be a table?
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
