@@ -91,6 +91,7 @@ public class HelloWorld {
 ## Tables
 
 This should be a table
+
 | Command | Description |
 | --- | --- |
 | `git status` | List all *new or modified* files |
@@ -98,6 +99,7 @@ This should be a table
 
 
 Should this be a table?
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
