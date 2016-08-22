@@ -34,6 +34,28 @@ Testing things out.
 	- b
 - four
 
+This is a paragraph. Amazing.
+
+  This is another paragraph, not connected to the above one. But with a hard line break. \\
+And another one. 
+
+> This is a quoted list
+>
+> - One
+> - Two
+>
+
+And A Header
+------------
+
+And a paragraph. 
+
+
+---
+
+
+
+
 ## Code snippets
 
 
