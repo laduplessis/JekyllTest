@@ -80,23 +80,6 @@ public class HelloWorld {
 {% endhighlight %}
 
 
-### Plain highlight
-{% highlight %}
-This is a highlight
-- one
-- two
-{% endhighlight %}
-
-
-### Old style codeblcok
-
-	This is a codeblock
-	for i in 1:10 do
-	  		something
-	od
-
-
-
 
 ## Figures
 
