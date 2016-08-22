@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Testing Jekyll"
+author: "Louis du Plessis"
 date: 2016-08-22
 ---
 
