@@ -35,6 +35,8 @@ Testing things out.
 
 ## Code snippets
 
+
+### Ruby
 {% highlight ruby %}
 def show
   @widget = Widget(params[:id])
@@ -45,12 +47,16 @@ def show
 end
 {% endhighlight %}
 
+
+### Python
 {% highlight python %}
 def Helloworld:
 	for i in range(0,10):
 		print "Hello world"
 {% endhighlight %}
 
+
+### R
 {% highlight R %}
 HelloWorld <- function() {
 	for (i in 1:10) {
@@ -58,6 +64,37 @@ HelloWorld <- function() {
 	} 
 }
 {% endhighlight %}
+
+
+
+### Java
+{% highlight Java %}
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
+}
+{% endhighlight %}
+
+
+### Plain highlight
+{% highlight %}
+This is a highlight
+- one
+- two
+{% endhighlight %}
+
+
+### Old style codeblcok
+
+  This is a codeblock
+  for i in 1:10 do
+  		something
+  od
+
 
 
 
