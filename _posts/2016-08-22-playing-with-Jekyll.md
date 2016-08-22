@@ -8,13 +8,13 @@ date: 2016-08-22
 # Heading 1
 
 Need the following things: 
-- Basic formatting
+- Basic formatting (No problem)
 	- Headings
 	- Paragraphs
 	- Numbered and unnumbmered lists
 	- Emphasis
 	- Inline typewriter
-- Code blocks
+- Code blocks (No problem)
 - Instructions in box
 - Figures + captions
 - Screenshot figures
@@ -45,7 +45,11 @@ And another one.
 > - Two
 >
 
+kramdown
+: A markdown converter
 
+pandoc
+: Another converter
 
 
 ## Code snippets
