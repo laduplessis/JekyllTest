@@ -80,6 +80,17 @@ public class HelloWorld {
 {% endhighlight %}
 
 
+### Plain highlight
+{% highlight %}
+This is a highlight
+one
+two
+{% endhighlight %}
+
+
+
+
+
 
 ## Figures
 
