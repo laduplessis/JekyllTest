@@ -6,6 +6,22 @@ date: 2016-08-22
 
 # Heading 1
 
+Need the following things: 
+- Basic formatting
+	- Headings
+	- Paragraphs
+	- Numbered and unnumbmered lists
+	- Emphasis
+	- Inline typewriter
+- Code blocks
+- Instructions in box
+- Figures + captions
+- Screenshot figures
+- Equations
+- Footnotes
+- References
+- Title, authors, license and dates
+
 ## Heading 2
 
 Testing things out.
@@ -17,6 +33,40 @@ Testing things out.
 	- b
 - four
 
+## Code snippets
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+{% highlight python %}
+def Helloworld:
+	for i in range(0,10):
+		print "Hello world"
+{% endhighlight %}
+
+{% highlight R %}
+HelloWorld <- function() {
+	for (i in 1:10) {
+		print("HelloWorld")
+	} 
+}
+{% endhighlight %}
+
+
+
+## Figures
+
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+
+
+## Mathematical equations
 
 Expression test 1:
 
