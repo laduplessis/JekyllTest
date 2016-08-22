@@ -81,11 +81,10 @@ public class HelloWorld {
 
 
 ### Plain highlight
-{% highlight %}
-This is a highlight
-one
-two
-{% endhighlight %}
+	
+	Test for 
+	a code block
+	with nothing in it
 
 
 
