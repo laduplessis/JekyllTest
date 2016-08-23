@@ -3,7 +3,7 @@ layout: post
 title: "Markdown cheatsheet"
 author: "GitHub"
 date: 2016-08-22
-
+---
 
 # Typography 
 
