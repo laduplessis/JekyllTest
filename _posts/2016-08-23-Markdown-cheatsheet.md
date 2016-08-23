@@ -616,7 +616,7 @@ or
 ```
 
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-*This is a stormtrooper cat*  
+_This is a stormtrooper cat_  
 
 
 Like links, Images also have a footnote style syntax
