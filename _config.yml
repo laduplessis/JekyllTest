@@ -15,4 +15,4 @@ url: "http://laduplessis.github.io.JekyllTest" # the base hostname & protocol fo
 github_username:  laduplessis
 
 # Build settings
-markdown: Pandoc
+markdown: kramdown
