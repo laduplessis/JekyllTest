@@ -623,7 +623,7 @@ _Figure 2: A cat that is also a stormtrooper._
 
 
 
-I can refer to [Figure 1](#minioncat) like this. 
+I can refer to [Figure 1](#minioncat) like this. I can refer to a footnote[^first] like this. 
 
 Like links, Images also have a footnote style syntax
 
@@ -638,4 +638,7 @@ With a reference later in the document defining the URL location:
 
 
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+
+[^first]: This is a footnote.
 
