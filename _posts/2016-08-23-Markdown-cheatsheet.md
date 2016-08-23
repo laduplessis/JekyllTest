@@ -615,7 +615,7 @@ or
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 ```
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-*This is a stormtrooper cat*  
+ *This is a stormtrooper cat*  
 
 *test*
 
