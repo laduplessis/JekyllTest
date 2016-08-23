@@ -608,16 +608,16 @@ Images have a similar syntax to links but include a preceding exclamation point.
 ![Minion](http://octodex.github.com/images/minion.png)
 ```
 ![Minion with a longer caption](http://octodex.github.com/images/minion.png)
-* This is a minion cat *
+**This is a minion cat**
 
 or
 ``` markdown
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 ```
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-* This is a stormtrooper cat *  
+*This is a stormtrooper cat*  
 
-* test *
+*test*
 
 Like links, Images also have a footnote style syntax
 
