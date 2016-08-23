@@ -15,6 +15,7 @@ Need the following things:
 	- Emphasis
 	- Inline typewriter
 - Code blocks (No problem)
+- Hyperlinks
 - Instructions in box
 - Figures + captions
 - Screenshot figures
