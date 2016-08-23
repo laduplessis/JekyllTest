@@ -5,7 +5,9 @@ author: "GitHub"
 date: 2016-08-22
 ---
 
-# Typography 
+modified from http://assemble.io/docs/Cheatsheet-Markdown.html
+
+# Typography <a id="top"></a>
 
 ## Headings
 
@@ -460,7 +462,7 @@ And this complicated HTML:
 
 
 
-## Tables
+## Tables  [id]: tables
 Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
 
 
@@ -586,6 +588,10 @@ Content for chapter one.
 ```
 **NOTE** that specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.
 
+[Go to the top](#top)
+[Tables](tables)
+[Tables](#tables)
+
 
 <br>
 <br>
@@ -598,7 +604,7 @@ Images have a similar syntax to links but include a preceding exclamation point.
 ``` markdown
 ![Minion](http://octodex.github.com/images/minion.png)
 ```
-![Minion](http://octodex.github.com/images/minion.png)
+![Minion with a longer caption](http://octodex.github.com/images/minion.png)
 
 or
 ``` markdown
