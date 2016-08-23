@@ -610,7 +610,7 @@ Images have a similar syntax to links but include a preceding exclamation point.
 ![Minion with a longer caption](http://octodex.github.com/images/minion.png) \\
 _A cat that is also a minion._
 
-[id]: minioncat 
+[id]: minioncat
 
 
 or
