@@ -462,7 +462,10 @@ And this complicated HTML:
 
 
 
-## Tables  [id]: tables
+## Tables  
+
+[id]: tables
+
 Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
 
 
