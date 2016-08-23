@@ -607,8 +607,9 @@ Images have a similar syntax to links but include a preceding exclamation point.
 ``` markdown
 ![Minion](http://octodex.github.com/images/minion.png)
 ```
-![Minion with a longer caption](http://octodex.github.com/images/minion.png)
-**This is a minion cat**
+![Minion with a longer caption](http://octodex.github.com/images/minion.png) \\
+[id]: minioncat "*Figure 1:*" 
+_A cat that is also a minion._
 
 or
 ``` markdown
@@ -616,8 +617,11 @@ or
 ```
 
 ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat") \\
-_This is a stormtrooper cat_  
+_Figure 2: A cat that is also a stormtrooper._  
 
+
+
+I can refer to [Alt text](#minioncat) like this. 
 
 Like links, Images also have a footnote style syntax
 
