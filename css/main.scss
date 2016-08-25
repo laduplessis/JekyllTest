@@ -43,11 +43,18 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
         "syntax-highlighting"
 ;
+
+
+
+blockquote {
+	.text-gray;
+	p {
+    font-size: (@font-size-base * 1.00);
+    }
+}
