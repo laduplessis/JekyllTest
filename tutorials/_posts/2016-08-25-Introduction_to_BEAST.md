@@ -95,7 +95,7 @@ Once you have done that, the data should appear in the BEAUti window which shoul
 ![]({{ site.github.url }}/images/tutorials/Introduction_to_BEAST/data.png) \\
 _Figure 1: Data imported into BEAUti._  
 
-[id]: fig:data1
+[fig:data1]: fig:data1
 
 
 <figure>
