@@ -73,9 +73,8 @@ More generally, this tutorial aims to introduce new users to a basic workflow an
 
 To run analyses with BEAST, one needs to prepare a configuration file in XML format that contains all the input information and setup of initial values and priors. Even though it is possible to create such files by hand from scratch, it can be complicated and not exactly straightforward. BEAUti is designed to aid you in producing a valid setup file for BEAST. If necessary that file can later be edited by hand, but it is recommended to use BEAUti for generating the files at least for the initial round of analysis.
 
-```
-Begin by starting up BEAUti.
-```
+
+> Begin by starting up BEAUti.
 
 
 ### Loading the data
@@ -84,13 +83,16 @@ In the folder with the extracted tutorial materials you should see the `Data` fo
 
 To give BEAST2 access to the data, one has to add the alignment to the configuration file. To do this, open BEAUti and either drag and drop the Nexus file into the open BEAUti window (it should be on `Partitions` tab), or use `File > Import Alignment` and then locate and click the alignment file.
 
-```
-Import the alignment into BEAUti by either dragging and dropping the *.nex file into the BEAUti window open on the Partitions tab, or use File > Import Alignment and then locate and click the alignment file.
-```
 
 > Import the alignment into BEAUti by either dragging and dropping the `*.nex` file into the BEAUti window open on the Partitions tab, or use `File > Import Alignment` and then locate and click the alignment file.
 
 Once you have done that, the data should appear in the BEAUti window which should look as shown in Figure.
+
+
+![Data imported into BEAUti](images/tutorials/Introduction_to_BEAST/data.png) \\
+_Figure 1: Data imported into BEAUti._  
+
+
 
 
 
