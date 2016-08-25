@@ -14,15 +14,16 @@ Need the following things:
 	- Numbered and unnumbmered lists
 	- Emphasis
 	- Inline typewriter
+	- Horizontal rule
 - Code blocks (No problem)
-- Hyperlinks
-- Instructions in box
-- Figures + captions
+- Hyperlinks (ok)
+- Instructions in box (have to be verbatim)
+- Figures + captions (no captions, probably works better with html include)
 - Screenshot figures
 - Equations
 - Footnotes
 - References
-- Title, authors, license and dates
+- Title, authors, license and dates (easy enough)
 
 ## Heading 2
 
