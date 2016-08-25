@@ -52,12 +52,13 @@ $on-laptop:        800px;
 
 
 blockquote {
+	font-size: 1em;
     font-style: normal;
-    color: grey-color-light;
+    color: text-color;
     border-style: solid;
     border-width: 2px;
-    border-color: grey-color;
-    border-left: 2px solid red;
+    border-color: grey-color-light;
+    border-left: 2px solid grey-color-light;
     border-radius: 5px;
 }
 
