@@ -103,6 +103,6 @@ _Figure 1: Data imported into BEAUti._
 	<a id="fig:data"/>
 </figure>
 
-
+{% fig %}
 
 
