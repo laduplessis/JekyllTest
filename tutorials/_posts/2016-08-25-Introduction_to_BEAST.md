@@ -13,7 +13,9 @@ Before diving into performing complex analyses with the BEAST2 one needs to unde
 
 Therefore, in this simple tutorial you will get acquainted with the basic workflow of BEAST2 and the software most commonly used to interpret the results of the analyses. Bear in mind that this tutorial is designed just to help you get started using BEAST2. We will not discuss all the choices and concepts in detail, as they will be sequentially discussed in further classes and tutorials.
 
+
 ---
+
 
 ## Programs used in this Exercise 
 
@@ -51,8 +53,11 @@ DensiTree is provided as a part of the BEAST2 tool package so you do not need to
 
 [FigTree](http://tree.bio.ed.ac.uk/software/figtree) is a program for viewing trees and producing publication-quality figures. It can interpret the node-annotations created on the summary trees by TreeAnnotator, allowing the user to display node-based statistics (e.g. posterior probabilities).
 
+<br>
 
 ---
+
+<br>
 
 ## Practical: Running a simple analysis with BEAST2
 
@@ -72,6 +77,20 @@ To run analyses with BEAST, one needs to prepare a configuration file in XML for
 Begin by starting up BEAUti.
 ```
 
+
+### Loading the data
+
+In the folder with the extracted tutorial materials you should see the `Data` folder containing a single NEXUS file. This file contains sequences and meta-information on the twelve primate mitochondrial genomes which we will be analysing.
+
+To give BEAST2 access to the data, one has to add the alignment to the configuration file. To do this, open BEAUti and either drag and drop the Nexus file into the open BEAUti window (it should be on `Partitions` tab), or use `File > Import Alignment` and then locate and click the alignment file.
+
+```
+Import the alignment into BEAUti by either dragging and dropping the *.nex file into the BEAUti window open on the Partitions tab, or use File > Import Alignment and then locate and click the alignment file.
+```
+
+> Import the alignment into BEAUti by either dragging and dropping the `*.nex` file into the BEAUti window open on the Partitions tab, or use `File > Import Alignment` and then locate and click the alignment file.
+
+Once you have done that, the data should appear in the BEAUti window which should look as shown in Figure.
 
 
 
