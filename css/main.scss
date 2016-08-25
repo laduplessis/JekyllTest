@@ -51,10 +51,18 @@ $on-laptop:        800px;
 ;
 
 
+.text-gray {
+	color: @gray-light;
+}
+
+p {
+	font-weight: 300;
+}
+
 
 blockquote {
 	.text-gray;
 	p {
-    font-size: (@font-size-base * 1.00);
+    font-size: (@font-size-base * 0.75);
     }
 }
