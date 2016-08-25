@@ -72,6 +72,7 @@ More generally, this tutorial aims to introduce new users to a basic workflow an
 ### Creating analysis configuration
 
 To run analyses with BEAST, one needs to prepare a configuration file in XML format that contains all the input information and setup of initial values and priors. Even though it is possible to create such files by hand from scratch, it can be complicated and not exactly straightforward. BEAUti is designed to aid you in producing a valid setup file for BEAST. If necessary that file can later be edited by hand, but it is recommended to use BEAUti for generating the files at least for the initial round of analysis.
+See [Figure 1](#fig:data1).
 
 
 > Begin by starting up BEAUti.
@@ -91,12 +92,13 @@ Once you have done that, the data should appear in the BEAUti window which shoul
 
 ![]({{ site.github.url }}/images/tutorials/Introduction_to_BEAST/data.png) \\
 _Figure 1: Data imported into BEAUti._  
+[id]: fig:data1
 
 
 <figure>
 	<img src="{{ site.github.url }}/images/tutorials/Introduction_to_BEAST/data.png" alt="">
 	<figcaption>Figure 1: Data imported into BEAUti.</figcaption>
-	<a id="fig:data"/></a>
+	<a id="fig:data"/>
 </figure>
 
 
