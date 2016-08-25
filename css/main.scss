@@ -54,7 +54,7 @@ $on-laptop:        800px;
 blockquote {
     font-style: normal;
     color: grey-color-light;
-    border-style: solid;
-    background: #0000dd;
+    border-style: solid, 1px, black;
+    border-radius: 5px;
 }
 
