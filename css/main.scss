@@ -58,7 +58,9 @@ blockquote {
     font-style: normal;
     letter-spacing: normal;
     color: $text-color;
-    border: 2px solid lightgrey-color;
+    border-style: solid;
+    border-width: 2px;
+    border-color: $lightgrey-color;
     padding: 25px;
 }
 
