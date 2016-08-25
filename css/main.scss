@@ -18,6 +18,8 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
+$lightgrey-color:       #ddddff;
+
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
@@ -57,7 +59,7 @@ blockquote {
     color: text-color;
     border-style: solid;
     border-width: 2px;
-    border-color: brand-color;
-    border-left-color: brand-color;
+    border-color: lightgrey-color;
+    border-left-color: lightgrey-color;
 }
 
